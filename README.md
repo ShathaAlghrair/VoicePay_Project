@@ -1,7 +1,7 @@
 # 🎙️ VoicePay — Voice-Controlled Banking Assistant
 
 ![VoicePay Architecture](banner (1).png)
-
+banner (1).png
 **VoicePay** is a voice-first banking assistant that lets users check their balance, transfer money, and pay bills entirely by speaking in **Arabic**. It combines speech recognition, Arabic NLP, and voice biometrics to turn a spoken sentence into a secure, executed transaction — with a spoken confirmation back.
 
 ---
